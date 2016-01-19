@@ -1,7 +1,7 @@
 <?php
 /**
  * @package Serene
- * @since Serene 1.0
+ * @since Serene 1.1
  */
 
 get_header();
